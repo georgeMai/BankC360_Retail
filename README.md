@@ -87,7 +87,7 @@ LIMIT 1000;
 
 ```bash
 # 1. Chuẩn bị config
-cd c360_retail
+cd bankc360_retail
 cp docker/.env.example docker/.env
 
 # 2. Build custom images (~5 phút lần đầu)
